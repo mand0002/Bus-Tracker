@@ -1,4 +1,5 @@
 # Bus-Tracker
+<img src= "map.PNG" width='300'/>
 Track busses from MBTA in real time
 ## How to Run
 1. download or clone the project to your desktop
